@@ -1,7 +1,7 @@
 ## Olá! Eu sou Felipe Areco, criador de conteúdo de programação e tecnologia!
 
 - 📝 Atualmente estudando front-end
-- 📄 Estudando: HTML5, CSS3, JAVASCRIPT, REACT, NODEJS, VUEJS, MONGODB, ANDROID, MYSQL E TYPE SCRIPT
+- 📄 Estudando: HTML5, CSS3, JAVASCRIPT, REACT, NODEJS, VUEJS, MONGODB, ANDROID E MYSQL.
 - 📩 Contate-me no email: felipedev2021@gmail.com
 
 <div align="center">
